@@ -1,0 +1,10 @@
+# Credenciales - NUNCA subir
+.env
+.mcp.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Prompts completos (info sensible)
+prompts_bots_ghl.json
